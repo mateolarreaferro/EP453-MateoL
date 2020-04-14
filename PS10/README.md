@@ -42,7 +42,11 @@ Things that are not included:
 
 3. Make sure to visualize the output of AKMixer for the spectroscope so that we see all ten filters visualized.
 
-9. Dependencies
+
+
+Dependencies: 
+
+
 Frameworks AudioKit
 
 
